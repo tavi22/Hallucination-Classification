@@ -6,3 +6,5 @@ Kaggle Competition held for the Machine Learning course.
 
 ## More info:
 > [Kaggle link](https://www.kaggle.com/competitions/unibuc-2022-s24/overview)
+> 
+> [Writeup](https://github.com/tavi22/Hallucination-Classification/blob/main/Deep%20Hallucination%20Classification%20-%20Mitrica%20Octavian%20(241).pdf)
